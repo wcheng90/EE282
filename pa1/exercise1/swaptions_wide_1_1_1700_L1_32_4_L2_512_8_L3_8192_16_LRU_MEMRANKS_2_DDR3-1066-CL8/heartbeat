@@ -1,0 +1,9 @@
+Running on: instance-1
+Start time: Mon Jan 28 00:53:23 2019
+Heartbeat time: Mon Jan 28 00:57:37 2019
+Stats since start:
+ 333888 phases
+ 3338880000 cycles
+ 13145196 cycles/s
+Stats since last heartbeat (4s):
+ 15590000 cycles/s
