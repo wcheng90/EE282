@@ -1,0 +1,1716 @@
+ 
+Now running application: blackscholes and type: wide and num of cores: 1 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 1
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 42.03536
+Total area: 72
+ 
+Now running application: blackscholes and type: wide and num of cores: 1 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 1
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 45.97832
+Total area: 76
+ 
+Now running application: blackscholes and type: wide and num of cores: 1 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+# of cores: 1
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 16.5017
+L3 Area: 30.7087
+Core area: 54.0717
+Total area: 84
+ 
+Now running application: blackscholes and type: wide and num of cores: 1 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+# of cores: 1
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 31.7311
+L3 Area: 30.7087
+Core area: 69.3011
+Total area: 100
+ 
+Now running application: blackscholes and type: wide and num of cores: 2 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 2
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 84.07072
+Total area: 114
+ 
+Now running application: blackscholes and type: wide and num of cores: 2 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 2
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 91.95664
+Total area: 122
+ 
+Now running application: blackscholes and type: wide and num of cores: 2 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+# of cores: 2
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 16.5017
+L3 Area: 30.7087
+Core area: 108.1434
+Total area: 138
+ 
+Now running application: blackscholes and type: wide and num of cores: 2 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+# of cores: 2
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 31.7311
+L3 Area: 30.7087
+Core area: 138.6022
+Total area: 169
+ 
+Now running application: blackscholes and type: wide and num of cores: 3 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 3
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 126.10608
+Total area: 156
+ 
+Now running application: blackscholes and type: wide and num of cores: 3 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 3
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 137.93496
+Total area: 168
+ 
+Now running application: blackscholes and type: wide and num of cores: 3 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+# of cores: 3
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 16.5017
+L3 Area: 30.7087
+Core area: 162.2151
+Total area: 192
+ 
+Now running application: blackscholes and type: wide and num of cores: 3 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+# of cores: 3
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 31.7311
+L3 Area: 30.7087
+Core area: 207.9033
+Total area: 238
+ 
+Now running application: blackscholes and type: wide and num of cores: 4 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 4
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 168.14144
+Total area: 198
+ 
+Now running application: blackscholes and type: wide and num of cores: 4 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 4
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 183.91328
+Total area: 214
+ 
+Now running application: blackscholes and type: wide and num of cores: 4 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+# of cores: 4
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 16.5017
+L3 Area: 30.7087
+Core area: 216.2868
+Total area: 246
+ 
+Now running application: blackscholes and type: wide and num of cores: 4 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+# of cores: 4
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 31.7311
+L3 Area: 30.7087
+Core area: 277.2044
+Total area: 307
+ 
+Now running application: blackscholes and type: wide and num of cores: 5 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 5
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 210.17680
+Total area: 240
+ 
+Now running application: blackscholes and type: wide and num of cores: 5 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 5
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 229.89160
+Total area: 260
+ 
+Now running application: blackscholes and type: wide and num of cores: 5 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+# of cores: 5
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 16.5017
+L3 Area: 30.7087
+Core area: 270.3585
+Total area: 301
+ 
+Now running application: blackscholes and type: wide and num of cores: 5 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (377 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (346.5055 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: wide and num of cores: 6 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 6
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 252.21216
+Total area: 282
+ 
+Now running application: blackscholes and type: wide and num of cores: 6 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 6
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 275.86992
+Total area: 306
+ 
+Now running application: blackscholes and type: wide and num of cores: 6 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (355 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (324.4302 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: wide and num of cores: 6 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (446 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (415.8066 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: wide and num of cores: 7 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 7
+Frequency: 1700
+Core voltage: 1.07823
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 294.24752
+Total area: 324
+ 
+Now running application: blackscholes and type: wide and num of cores: 7 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (352 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (321.84824 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: wide and num of cores: 7 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (409 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (378.5019 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: wide and num of cores: 7 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (515 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (485.1077 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: wide and num of cores: 8 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (366 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (336.28288 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: wide and num of cores: 8 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (398 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (367.82656 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: wide and num of cores: 8 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (463 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (432.5736 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: wide and num of cores: 8 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (585 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (554.4088 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: wide and num of cores: 9 and L2 size: 1024
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 9)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 1024)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 9 and L2 size: 2048
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 9)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 2048)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 9 and L2 size: 4096
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 9)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 4096)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 9 and L2 size: 8192
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 9)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 8192)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 10 and L2 size: 1024
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 10)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 1024)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 10 and L2 size: 2048
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 10)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 2048)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 10 and L2 size: 4096
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 10)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 4096)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 10 and L2 size: 8192
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 10)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 8192)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 11 and L2 size: 1024
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 11)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 1024)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 11 and L2 size: 2048
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 11)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 2048)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 11 and L2 size: 4096
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 11)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 4096)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 11 and L2 size: 8192
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 11)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 8192)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 12 and L2 size: 1024
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 12)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 1024)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 12 and L2 size: 2048
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 12)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 2048)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 12 and L2 size: 4096
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 12)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 4096)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 12 and L2 size: 8192
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 12)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 8192)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 13 and L2 size: 1024
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 13)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 1024)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 13 and L2 size: 2048
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 13)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 2048)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 13 and L2 size: 4096
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 13)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 4096)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 13 and L2 size: 8192
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 13)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 8192)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 14 and L2 size: 1024
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 14)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 1024)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 14 and L2 size: 2048
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 14)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 2048)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 14 and L2 size: 4096
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 14)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 4096)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 14 and L2 size: 8192
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 14)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 8192)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 15 and L2 size: 1024
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 15)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 1024)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 15 and L2 size: 2048
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 15)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 2048)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 15 and L2 size: 4096
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 15)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 4096)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 15 and L2 size: 8192
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 15)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 8192)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 16 and L2 size: 1024
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 16)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 1024)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 16 and L2 size: 2048
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 16)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 2048)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 16 and L2 size: 4096
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 16)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 4096)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: wide and num of cores: 16 and L2 size: 8192
+# of wide issue cores (-c) should be between 1 and 8.
+
+This script generates a zsim configuration and then submits a
+simulation job to the cluster.
+
+Usage: zsim.sh [options]
+   -S                  (print cache statistics and exit)
+   -a <APPLICATION>    (blackscholes, fluidanimate, streamcluster, swaptions, art, mix)
+   -b <narrow or wide> (choose the wide issue or narrow issue processor, default: wide)
+   -f <frequency>      (in MHz, 400 to 5000, default: 1700)
+   -c <# of cores>     (1 to 8 wide, 1 to 16 narrow, default: 16)
+   -t <# of threads>   (1 to CORES), how many threads the app should use
+   --l1size <# of kB>  (4 to 128, default: 32)
+   --l1ways <assoc.>   (1 to 8, default: 4)
+   --l2size <# of kB>  (256 to 32768, default: 8192)
+   --l2ways <assoc.>   (1 to 32, default: 8)
+   --l3size <# of kB>  (512 to 65536, default: 8192)
+   --l3ways <assoc.>   (1 to 32, default: 16)
+   --l3repl <policy.>  (LRU, NRU, Rand, default: LRU)
+   --memranks <#>      (1-4, default: 2)
+   --memtech <id>      (DDR3-800-CL5, DDR3-1333-CL10, DDR3-1600-CL11, default: DDR3-1066-CL8)
+
+ 
+Now running application: blackscholes and type: narrow and num of cores: 1 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 1
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 17.46536
+Total area: 48
+ 
+Now running application: blackscholes and type: narrow and num of cores: 1 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 1
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 21.40832
+Total area: 52
+ 
+Now running application: blackscholes and type: narrow and num of cores: 1 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+# of cores: 1
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 16.5017
+L3 Area: 30.7087
+Core area: 29.5017
+Total area: 60
+ 
+Now running application: blackscholes and type: narrow and num of cores: 1 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+# of cores: 1
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 31.7311
+L3 Area: 30.7087
+Core area: 44.7311
+Total area: 75
+ 
+Now running application: blackscholes and type: narrow and num of cores: 2 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 2
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 34.93072
+Total area: 65
+ 
+Now running application: blackscholes and type: narrow and num of cores: 2 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 2
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 42.81664
+Total area: 73
+ 
+Now running application: blackscholes and type: narrow and num of cores: 2 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+# of cores: 2
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 16.5017
+L3 Area: 30.7087
+Core area: 59.0034
+Total area: 89
+ 
+Now running application: blackscholes and type: narrow and num of cores: 2 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+# of cores: 2
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 31.7311
+L3 Area: 30.7087
+Core area: 89.4622
+Total area: 120
+ 
+Now running application: blackscholes and type: narrow and num of cores: 3 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 3
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 52.39608
+Total area: 83
+ 
+Now running application: blackscholes and type: narrow and num of cores: 3 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 3
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 64.22496
+Total area: 94
+ 
+Now running application: blackscholes and type: narrow and num of cores: 3 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+# of cores: 3
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 16.5017
+L3 Area: 30.7087
+Core area: 88.5051
+Total area: 119
+ 
+Now running application: blackscholes and type: narrow and num of cores: 3 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+# of cores: 3
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 31.7311
+L3 Area: 30.7087
+Core area: 134.1933
+Total area: 164
+ 
+Now running application: blackscholes and type: narrow and num of cores: 4 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 4
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 69.86144
+Total area: 100
+ 
+Now running application: blackscholes and type: narrow and num of cores: 4 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 4
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 85.63328
+Total area: 116
+ 
+Now running application: blackscholes and type: narrow and num of cores: 4 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+# of cores: 4
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 16.5017
+L3 Area: 30.7087
+Core area: 118.0068
+Total area: 148
+ 
+Now running application: blackscholes and type: narrow and num of cores: 4 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+# of cores: 4
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 31.7311
+L3 Area: 30.7087
+Core area: 178.9244
+Total area: 209
+ 
+Now running application: blackscholes and type: narrow and num of cores: 5 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 5
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 87.32680
+Total area: 118
+ 
+Now running application: blackscholes and type: narrow and num of cores: 5 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 5
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 107.04160
+Total area: 137
+ 
+Now running application: blackscholes and type: narrow and num of cores: 5 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+# of cores: 5
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 16.5017
+L3 Area: 30.7087
+Core area: 147.5085
+Total area: 178
+ 
+Now running application: blackscholes and type: narrow and num of cores: 5 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+# of cores: 5
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 31.7311
+L3 Area: 30.7087
+Core area: 223.6555
+Total area: 254
+ 
+Now running application: blackscholes and type: narrow and num of cores: 6 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 6
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 104.79216
+Total area: 135
+ 
+Now running application: blackscholes and type: narrow and num of cores: 6 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 6
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 128.44992
+Total area: 159
+ 
+Now running application: blackscholes and type: narrow and num of cores: 6 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+# of cores: 6
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 16.5017
+L3 Area: 30.7087
+Core area: 177.0102
+Total area: 207
+ 
+Now running application: blackscholes and type: narrow and num of cores: 6 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+# of cores: 6
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 31.7311
+L3 Area: 30.7087
+Core area: 268.3866
+Total area: 299
+ 
+Now running application: blackscholes and type: narrow and num of cores: 7 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 7
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 122.25752
+Total area: 152
+ 
+Now running application: blackscholes and type: narrow and num of cores: 7 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 7
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 149.85824
+Total area: 180
+ 
+Now running application: blackscholes and type: narrow and num of cores: 7 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+# of cores: 7
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 16.5017
+L3 Area: 30.7087
+Core area: 206.5119
+Total area: 237
+ 
+Now running application: blackscholes and type: narrow and num of cores: 7 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+# of cores: 7
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 31.7311
+L3 Area: 30.7087
+Core area: 313.1177
+Total area: 343
+ 
+Now running application: blackscholes and type: narrow and num of cores: 8 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 8
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 139.72288
+Total area: 170
+ 
+Now running application: blackscholes and type: narrow and num of cores: 8 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 8
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 171.26656
+Total area: 201
+ 
+Now running application: blackscholes and type: narrow and num of cores: 8 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+# of cores: 8
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 16.5017
+L3 Area: 30.7087
+Core area: 236.0136
+Total area: 266
+ 
+Now running application: blackscholes and type: narrow and num of cores: 8 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (388 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (357.8488 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: narrow and num of cores: 9 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 9
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 157.18824
+Total area: 187
+ 
+Now running application: blackscholes and type: narrow and num of cores: 9 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 9
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 192.67488
+Total area: 223
+ 
+Now running application: blackscholes and type: narrow and num of cores: 9 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+# of cores: 9
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 16.5017
+L3 Area: 30.7087
+Core area: 265.5153
+Total area: 296
+ 
+Now running application: blackscholes and type: narrow and num of cores: 9 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (433 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (402.5799 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: narrow and num of cores: 10 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 10
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 174.65360
+Total area: 205
+ 
+Now running application: blackscholes and type: narrow and num of cores: 10 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 10
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 214.08320
+Total area: 244
+ 
+Now running application: blackscholes and type: narrow and num of cores: 10 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+# of cores: 10
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 16.5017
+L3 Area: 30.7087
+Core area: 295.0170
+Total area: 325
+ 
+Now running application: blackscholes and type: narrow and num of cores: 10 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (478 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (447.3110 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: narrow and num of cores: 11 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 11
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 192.11896
+Total area: 222
+ 
+Now running application: blackscholes and type: narrow and num of cores: 11 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 11
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 235.49152
+Total area: 266
+ 
+Now running application: blackscholes and type: narrow and num of cores: 11 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (355 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (324.5187 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: narrow and num of cores: 11 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (522 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (492.0421 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: narrow and num of cores: 12 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 12
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 209.58432
+Total area: 240
+ 
+Now running application: blackscholes and type: narrow and num of cores: 12 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 12
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 256.89984
+Total area: 287
+ 
+Now running application: blackscholes and type: narrow and num of cores: 12 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (384 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (354.0204 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: narrow and num of cores: 12 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (567 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (536.7732 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: narrow and num of cores: 13 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 13
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 227.04968
+Total area: 257
+ 
+Now running application: blackscholes and type: narrow and num of cores: 13 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 13
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 278.30816
+Total area: 309
+ 
+Now running application: blackscholes and type: narrow and num of cores: 13 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (414 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (383.5221 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: narrow and num of cores: 13 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (612 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (581.5043 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: narrow and num of cores: 14 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 14
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 244.51504
+Total area: 275
+ 
+Now running application: blackscholes and type: narrow and num of cores: 14 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+# of cores: 14
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 8.40832
+L3 Area: 30.7087
+Core area: 299.71648
+Total area: 330
+ 
+Now running application: blackscholes and type: narrow and num of cores: 14 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (443 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (413.0238 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: narrow and num of cores: 14 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (656 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (626.2354 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: narrow and num of cores: 15 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 15
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 261.98040
+Total area: 292
+ 
+Now running application: blackscholes and type: narrow and num of cores: 15 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (351 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (321.12480 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: narrow and num of cores: 15 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (473 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (442.5255 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: narrow and num of cores: 15 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (701 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (670.9665 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: narrow and num of cores: 16 and L2 size: 1024
+Running CACTI to determine cache characteristics.
+# of cores: 16
+Frequency: 1700
+Core voltage: 1.0341
+
+L2 Area: 4.46536
+L3 Area: 30.7087
+Core area: 279.44576
+Total area: 310
+ 
+Now running application: blackscholes and type: narrow and num of cores: 16 and L2 size: 2048
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (373 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (342.53312 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: narrow and num of cores: 16 and L2 size: 4096
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (502 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (472.0272 mm^2) or L3 cache size (30.7087 mm^2).
+ 
+Now running application: blackscholes and type: narrow and num of cores: 16 and L2 size: 8192
+Running CACTI to determine cache characteristics.
+Validation error.
+
+The total area (746 mm^2) is larger than the area budget of 350mm^2.
+Try reducing core count (715.6976 mm^2) or L3 cache size (30.7087 mm^2).
