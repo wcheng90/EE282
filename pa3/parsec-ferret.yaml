@@ -7,6 +7,8 @@ metadata:
 spec:
   template:
     spec: 
+      nodeSelector:
+        nodelabel: A
       containers:
       - image: anakli/parsec:ferret-native-reduced
         name: parsecferret
@@ -14,5 +16,3 @@ spec:
         command: ["/bin/sh"]
         args: ["-c", "./bin/parsecmgmt -a run -p ferret -i native -n 8"]
       restartPolicy: Never
-      nodeSelector:
-	nodelabel: A

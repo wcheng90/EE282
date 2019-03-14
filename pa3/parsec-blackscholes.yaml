@@ -7,6 +7,8 @@ metadata:
 spec:
   template:
     spec: 
+      nodeSelector:
+        nodelabel: B  
       containers:
       - image: anakli/parsec:blackscholes-native-reduced
         name: parsecblackscholes
@@ -14,5 +16,3 @@ spec:
         command: ["/bin/sh"]
         args: ["-c", "./bin/parsecmgmt -a run -p blackscholes -i native -n 4"]
       restartPolicy: Never
-      nodeSelector:
-	nodelabel: B

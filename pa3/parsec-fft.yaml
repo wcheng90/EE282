@@ -7,6 +7,8 @@ metadata:
 spec:
   template:
     spec: 
+      nodeSelector:
+        nodelabel: A
       containers:
       - image: anakli/parsec:splash2x-fft-native-reduced
         name: parsec-splash2x-fft
@@ -14,5 +16,3 @@ spec:
         command: ["/bin/sh"]
         args: ["-c", "./bin/parsecmgmt -a run -p splash2x.fft -i native -n 8"]
       restartPolicy: Never
-      nodeSelector:
-	nodelabel: A

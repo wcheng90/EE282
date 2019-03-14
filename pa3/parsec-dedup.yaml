@@ -6,7 +6,9 @@ metadata:
     name: pasec-dedup
 spec:
   template:
-    spec: 
+    spec:
+      nodeSelector:
+        nodelabel: B 
       containers:
       - image: anakli/parsec:dedup-native-reduced
         name: parsecdedup
@@ -14,5 +16,4 @@ spec:
         command: ["/bin/sh"]
         args: ["-c", "./bin/parsecmgmt -a run -p dedup -i native -n 4"]
       restartPolicy: Never
-      nodeSelector:
-        nodelabel: B
+

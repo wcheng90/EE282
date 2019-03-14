@@ -10,7 +10,7 @@ spec:
       name: memcached
       imagePullPolicy: Always
       command: ["/bin/sh"]
-      args: ["-c", "./memcached -t 1 -u memcache"]
+      args: ["-c", "./memcached -t 2 -u memcache"]
   nodeSelector:
     nodelabel: C
 
