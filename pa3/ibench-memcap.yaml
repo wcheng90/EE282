@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: ibench-memcap
+  labels:
+    name: ibench-memcap
+spec:
+  containers:
+    - image: anakli/ibench:memCap
+      name: ibench-mem
+      command: ["/bin/sh"]
+      args: ["-c", "taskset -c 1 ./memCap 120"]
+
