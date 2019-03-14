@@ -8,11 +8,11 @@ spec:
   template:
     spec: 
       nodeSelector:
-        nodelabel: B
+        nodelabel: A
       containers:
       - image: anakli/parsec:freqmine-native-reduced
         name: parsecfreqmine
         imagePullPolicy: Always
         command: ["/bin/sh"]
-        args: ["-c", "./bin/parsecmgmt -a run -p freqmine -i native -n 4"]
+        args: ["-c", "./bin/parsecmgmt -a run -p freqmine -i native -n 8"]
       restartPolicy: Never

@@ -8,11 +8,11 @@ spec:
   template:
     spec: 
       nodeSelector:
-        nodelabel: A
+        nodelabel: B
       containers:
       - image: anakli/parsec:canneal-native-reduced
         name: parseccanneal
         imagePullPolicy: Always
         command: ["/bin/sh"]
-        args: ["-c", "./bin/parsecmgmt -a run -p canneal -i native -n 8"]
+        args: ["-c", "./bin/parsecmgmt -a run -p canneal -i native -n 4"]
       restartPolicy: Never
